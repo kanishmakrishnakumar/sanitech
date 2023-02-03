@@ -1,9 +1,15 @@
 <template> 
   <div>
-        <v-toolbar color="teal lighten-1" dark max-height="120px">
+        <v-toolbar color="teal lighten-2" dark max-height="120px">
+            <!-- <router-link to="/" style="text-decoration :none"> -->
+        <v-img src="download (13).png" max-width="200"></v-img> 
         <v-spacer />
-            <v-toolbar-title class="text-center"> <strong><h1>SANITECH</h1> </strong></v-toolbar-title>
+        
+            <v-toolbar-title class="text-center">
+               <strong><h1>"വഴി " വിരൽ തുമ്പിൽ</h1> </strong><v-img src=""></v-img></v-toolbar-title>
         <v-spacer />
+        <!-- <router-link to="/" style="text-decoration :none"> -->
+        <v-img src="download (12).png" max-width="200"></v-img> 
         </v-toolbar>
     <!-- <br>
     <br> -->
